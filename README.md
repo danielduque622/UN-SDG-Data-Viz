@@ -11,3 +11,5 @@ https://unstats.un.org/sdgs/dataportal/database
 From the database I extraced an excel file that contained development goal data for a specifc indicator for each region/country. I filtered each file to remove indidivual country data and only have region data to reduce the total amount of data and then I filtered out any other unnecessary data that may clutter the visualizations.
 
 In future iterations I plan to create more visualization for additional indicators and include target goal data for the SDG. 
+
+https://public.tableau.com/views/MidTermSustainabilityGoals/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
