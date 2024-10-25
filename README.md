@@ -4,9 +4,7 @@ This repository contains a Tableau Story that vizualizes the progress of a selec
 
 UN has a list of  17 Sustainable evelopment goals, each comprising a set of indicators. UN describes these goals as the blueprint for a more resilient and prosperous world and the roadmap out of current global crises
 
-SDGs were introduced in 2015 as a part of the 2030 Sustainable Development Agenda. 
-
-The SDGs are part of the 2030 Agenda for Sustainable Development, which was adopted by all UN members. The goals are intended to:
+SDGs were introduced in 2015 as a part of the 2030 Sustainable Development Agenda, which was adopted by all UN members. The goals are intended to:
 
 End poverty
 
